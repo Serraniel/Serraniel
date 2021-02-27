@@ -1,5 +1,5 @@
 
-<img align="right" width="100" height="100" src="assets/logo.svg">
+<img align="right" width="100" height="100" src="assets/logo.png">
 
 <!--
 ![Stars](https://img.shields.io/github/stars/serraniel?color=f9d71c&style=flat-square)
@@ -10,7 +10,8 @@
 [![steam](https://img.shields.io/badge/steam-serraniel-2a475e?style=flat-square&logo=steam)](https://steamcommunity.com/id/serraniel)
 [![discord](https://img.shields.io/badge/discord-serraniel%235871-7289da?style=flat-square&logo=discord)](https://discordapp.com/users/534243382810247199)
 [![ko-fi](https://img.shields.io/badge/ko--fi-serraniel-f16061?style=flat-square&logo=ko-fi)](https://ko-fi.com/serraniel)
-
+</br>
+</br>
 # Hi, I am Serraniel 👋
 I am working as a professional software developer in Germany since 2014.
 
